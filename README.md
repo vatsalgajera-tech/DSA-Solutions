@@ -10,7 +10,7 @@ The purpose of this repository is to strengthen my understanding of Data Structu
 
 ## Author
 
-###**Vatsal Gajera**
+### **Vatsal Gajera**
 
 Happy Coding! 🚀
 
