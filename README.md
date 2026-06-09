@@ -1,6 +1,6 @@
 # Solutions 🚀
 
-This repository contains my solutions to problems. The solutions are implemented in Python and are organized by topic for easy navigation and reference.
+This repository contains solutions of various data structures and algorithms problems. The solutions are implemented in Python.
 
 ## Language
 
